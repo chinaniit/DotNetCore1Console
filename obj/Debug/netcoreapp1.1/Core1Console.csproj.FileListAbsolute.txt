@@ -1,0 +1,8 @@
+E:\code\dotnettest\Core1Console\bin\Debug\netcoreapp1.1\Core1Console.deps.json
+E:\code\dotnettest\Core1Console\bin\Debug\netcoreapp1.1\Core1Console.runtimeconfig.json
+E:\code\dotnettest\Core1Console\bin\Debug\netcoreapp1.1\Core1Console.runtimeconfig.dev.json
+E:\code\dotnettest\Core1Console\bin\Debug\netcoreapp1.1\Core1Console.dll
+E:\code\dotnettest\Core1Console\bin\Debug\netcoreapp1.1\Core1Console.pdb
+E:\code\dotnettest\Core1Console\obj\Debug\netcoreapp1.1\Core1Console.AssemblyInfo.cs
+E:\code\dotnettest\Core1Console\obj\Debug\netcoreapp1.1\Core1Console.dll
+E:\code\dotnettest\Core1Console\obj\Debug\netcoreapp1.1\Core1Console.pdb
